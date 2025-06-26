@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_input"
+        android:icon="@drawable/icon_input"
+        android:title="入力" />
+    <item
+        android:id="@+id/nav_calendar"
+        android:icon="@drawable/icon_calendar"
+        android:title="カレンダー" />
+    <item
+        android:id="@+id/nav_graph"
+        android:icon="@drawable/icon_graph"
+        android:title="グラフ" />
+</menu>

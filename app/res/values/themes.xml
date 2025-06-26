@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.MoneyRecord" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- 必要であればここにカスタム属性を追加 -->
+    </style>
+</resources>
